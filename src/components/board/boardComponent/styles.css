@@ -1,0 +1,13 @@
+.text-editor {
+  width: 900px;
+  margin: 0 auto;
+}
+.ql-editor {
+  height: 400px;
+  min-height: 100px;
+}
+
+@font-face {
+  font-family: 'Bold';
+  src: url('../../../font/NanumSquareRoundOTFB.otf');
+}

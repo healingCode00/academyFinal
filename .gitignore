@@ -1,0 +1,4 @@
+/.metadata/
+node_modules
+src/components/join/Config.jsx
+public/upload
